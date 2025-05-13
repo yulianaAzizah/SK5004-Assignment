@@ -15,7 +15,6 @@ mindmap
       Identify loss causes
       Provide policy insight for hotels
     Production Scenario
-      Dynamic factors influencing cancellation
       Monthly analysis and review
       Evaluate effectiveness of improvements
     Metric Evaluation
